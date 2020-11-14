@@ -2,3 +2,5 @@
 test-rebase
 
 a
+
+b
