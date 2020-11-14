@@ -4,3 +4,5 @@ test-rebase
 a
 
 b
+
+c
